@@ -12,6 +12,14 @@ header h4 {
   text-align: center;
 }
 
+main {
+  background-color: burlywood;
+}
+
+main ul {
+  margin: 2rem auto;
+}
+
 /* Footer */
 footer li {
   background-color: green;
