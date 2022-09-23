@@ -14,11 +14,12 @@ header h4 {
 
 main {
   background-color: burlywood;
+  padding: 2rem 0;
 }
 
-main {
-  padding: 2rem 0;
+main ul {
   margin: 0 auto;
+  max-width: 500px;
 }
 
 /* Footer */
