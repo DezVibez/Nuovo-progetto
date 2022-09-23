@@ -1,0 +1,19 @@
+/* Reset */
+* {
+  list-style-type: none;
+}
+
+/* Header */
+header {
+  height: 200px;
+}
+header h4 {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+/* Footer */
+footer li {
+  font-weight: bold;
+  font-size: 0.8rem;
+}
