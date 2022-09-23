@@ -12,7 +12,20 @@ header h4 {
   text-align: center;
 }
 
+main {
+  background-color: burlywood;
+}
+
+main {
+  padding: 2rem 0;
+  margin: 0 auto;
+}
+
 /* Footer */
+footer {
+  background-color: green;
+}
+
 footer li {
   font-weight: bold;
   font-size: 0.8rem;
